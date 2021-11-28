@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Monitoring Budimas</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="form_input">Form Input</string>
+    <string name="plat_mobil">Plat Mobil</string>
+    <string name="nama_sopir">Nama Sopir</string>
+    <string name="kode_draft_1">Kode Draft 1</string>
+    <string name="kode_draft_2">Kode Draft 2</string>
+    <string name="kode_draft_3">Kode Draft 3</string>
+    <string name="simpan">Simpan</string>
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="login">LOGIN</string>
+    <string name="id_akun">Plat Nomor / Username</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="aplikasi_monitoring_delivery">Aplikasi Monitoring Delivery</string>
+    <string name="pt_budimas_makmur_mulia">PT. BUDIMAS MAKMUR MULIA</string>
+    <string name="surakarta">SURAKARTA</string>
+    <string name="ppassword">Password</string>
+    <string name="selesai">Selesai</string>
+    <string name="tracking">Tracking</string>
+    <string name="ongoing">Ongoing</string>
+    <string name="terdekat">Terdekat</string>
+    <string name="title_activity_listtoko">listtoko</string>
+    <string name="btn">Pulang</string>
+    <string name="btn2">Request Konfirmasi</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_listfaktur">listfaktur</string>
+    <string name="title_activity_map">Map</string>
+</resources>
